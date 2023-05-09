@@ -22,7 +22,7 @@ conda activate pytorch
 
 For Installation of PyTorch see [official website](https://pytorch.org/).
 
-You also need `nltk`:
+You also need:
  ```console
 pip install pygame
 pip install matplotlib
